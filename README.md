@@ -6,4 +6,6 @@ This file is invoked with node:
 The app counts every occurrence of the value of the "searchString" in the file
 and replaces each occurance with the value of the "replacementString" and saves the file
 
+Additionally if `<replacementString>` is blank, it will count occurrences of `<searchString>` only.
+
 
