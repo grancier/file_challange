@@ -1,4 +1,4 @@
-##search_file.js:
+## search_file.js:
 
 This file is invoked with node:
 `node search_file.js <inputFile> <searchString> <replacementString>
